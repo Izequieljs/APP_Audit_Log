@@ -1,0 +1,5 @@
+{
+  "name": "Auditar_Prestação_de_Contas_Logística_V3.0",
+  "description": "An Apple-style minimalist application to extract data from logistics PDF files and generate consolidated Excel reports.",
+  "requestFramePermissions": []
+}
