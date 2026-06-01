@@ -1,4 +1,4 @@
-# Aeris Audit - Auditoria Logística Integrada
+# Audit - Auditoria Logística Integrada
 
 ## 📖 Sobre o Projeto
 
