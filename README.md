@@ -1,8 +1,8 @@
-# Audit - Auditoria Logística Integrada
+# Audit - Auditoria Logística Integrada (Beta)
 
 ## 📖 Sobre o Projeto
 
-O **Aeris Audit** é uma aplicação web full-stack desenvolvida para automatizar e otimizar o processo de auditoria logística. O sistema permite a extração inteligente de dados de documentos aduaneiros e logísticos em formato PDF (como Declaração de Importação - DI, Packing Lists - PC, Notas Fiscais e Guias de Impostos), facilitando a conferência cruzada de valores e a geração de relatórios consolidados.
+O **Audit** é uma aplicação web full-stack desenvolvida para automatizar e otimizar o processo de auditoria logística. O sistema permite a extração inteligente de dados de documentos aduaneiros e logísticos em formato PDF (como Declaração de Importação - DI, Packing Lists - PC, Notas Fiscais e Guias de Impostos), facilitando a conferência cruzada de valores e a geração de relatórios consolidados.
 
 A ferramenta suporta diferentes modalidades logísticas:
 - ✈️ Aéreo - Fortaleza
